@@ -1,5 +1,7 @@
 # js-spell-numbers-hun
-Spell numbers in Hungarian. English description below.
+Számok tagolása az [AKH 11 § 289 (a)](https://helyesiras.mta.hu/helyesiras/default/akh11#289a) szerint. English description below.
+
+Spell numbers in Hungarian according to [AKH 11 § 289 (a)](https://helyesiras.mta.hu/helyesiras/default/akh11#289a).
 
 ## Használat
 
